@@ -1,0 +1,223 @@
+.navbar-default {
+  background-color: #FC8C0D;
+
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white;
+  vertical-align: middle;
+  height: 50px;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #e7e7e7;
+  background-color: transparent;
+}
+.navbar-default .navbar-brand {
+  color: white;
+  vertical-align: middle;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #e7e7e7;
+  background-color: transparent;
+}
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: white;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a{
+	color: white;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus{
+	background-color: #FC8C0D;
+	color: #e7e7e7;
+}
+
+.navbar-nav .open .dropdown-menu{
+	background-color: #FC8C0D;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus{
+	background-color: #F25E00;
+}
+
+.btn-primary {
+  width: 100%;
+  color: #000;
+  background-color: #e7e7e7;
+  border-color: #ccc;
+}
+.btn-primary:focus,
+.btn-primary.focus {
+  color: #000;
+  background-color: #e7e7e7;
+  border-color: #ccc;
+}
+.btn-primary:hover {
+  color: #000;
+  background-color: #e7e7e7;
+  border-color: #ccc;
+}
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  color: #000;
+  background-color: #e7e7e7;
+  border-color: #ccc;
+}
+
+.btn-primary:active:hover,
+.btn-primary.active:hover,
+.open > .dropdown-toggle.btn-primary:hover,
+.btn-primary:active:focus,
+.btn-primary.active:focus,
+.open > .dropdown-toggle.btn-primary:focus,
+.btn-primary:active.focus,
+.btn-primary.active.focus,
+.open > .dropdown-toggle.btn-primary.focus {
+  color: #000;
+  background-color: #e7e7e7;
+  border-color: #ccc;
+}
+/* background-color: #F25E00;
+  border-color: #E55900;*/
+#Login{
+	top: 100px;
+	height: 680px;
+	font-size: 17px;
+	color: #fff;
+}
+
+#Register{
+	top: 100px;
+	height: 680px;
+	font-size: 17px;
+	color: #fff;
+}
+.logo{
+	padding: 1px;
+	margin: 0px;
+	width: 35px;
+}
+.logo_txt{
+	color: #fff;
+	font-style: none;
+	font-size: 18px;
+}
+
+.logo_txt:hover{
+	color: #fff;
+	text-decoration: none;
+	top: 5px;
+	font-size: 18px;
+}
+.txt_login{
+	margin-top: 100px;
+	display: flex;
+	flex-flow: column wrap;
+	justify-content: center;
+	align-items: center;
+	color: #F25E00;
+	font-size: 60px;
+}
+.asd{
+	color: #fff;
+}
+
+.data{
+	padding-top: 80px;
+	padding-bottom: 80px;
+	background-color: #FC8C0D;
+}
+.data input{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.data2{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #FC8C0D;
+}
+.data2 input{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.benefits p{
+	padding: 8px;
+	font-size: 16px;
+	background-color: #F25E00;
+	border-radius: 10px;
+	color: #fff;
+}
+.btn_db{
+	margin-top: 20px;
+	font-size: 17px;
+	color: #fff;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #F25E00;
+}
+.btn_entrar{
+	margin-top:
+}
+
+.btn_db1{
+	margin-top: 37px;
+	font-size: 17px;
+	color: #fff;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #F25E00;
+}
+
+#Filtros{
+	margin-top: 100px;
+}
+.co_min{
+	padding-left: 0px;
+	padding-right: 15px;
+}
+.co_max{
+	padding-left: 5px;
+	padding-right: 15px;
+}
+.ingredientes{
+	padding-left: 20px;
+	padding-right: 0px;
+}
+
+#Cartas_recetas{
+	margin-top: .5%;
+}
+
+.nombre_receta{
+	background-color: #FC8C0D;
+	padding-top: 11px;
+	padding-bottom: 11px;
+}
+
+.nombre_receta a{
+	color: white;
+}
+
+.nombre_receta span{
+	padding-left: 10px;
+	color: white;
+	font-size: 18px
+}
+
+.favorito{
+	color: white;
+	font-size: 18px;
+	float: right;
+	padding-right: 15px;
+}
+
+
+.carta_receta{
+	margin-top: 40px;
+}
